@@ -1,0 +1,91 @@
+<<<<<<< HEAD
+Fmod sound audio
+Wwise audio *** and Unreal 
+
+audacity
+reaper.fm 60 dollars and the whole deal 
+
+wav editor:
+sound forge
+adobe audition
+
+humble bundle audio creation cheak it out
+
+pro tools subcription
+
+jsfxr webpage for sounds
+
+sound dogs.com
+
+free frist then pay
+
+https://www.humblebundle.com/software
+
+
+game design start
+
+1)area explorer/puzzle
+a)creeper game prevent being spoted.
+
+2)radio mechinic
+?) knot tieing puzzle 
+
+3)interact mechanic
+
+?)storgage mechanic?
+?)survival mechanic
+
+music with upon movemnt chararter theme plays
+enimy in view enemy them plays
+
+need 3 song loops
+
+promiance free to play game
+
+
+=======
+Fmod sound audio
+Wwise audio *** and Unreal 
+
+audacity
+reaper.fm 60 dollars and the whole deal 
+
+wav editor:
+sound forge
+adobe audition
+
+humble bundle audio creation cheak it out
+
+pro tools subcription
+
+jsfxr webpage for sounds
+
+sound dogs.com
+
+free frist then pay
+
+https://www.humblebundle.com/software
+
+
+game design start
+
+1)area explorer/puzzle
+a)creeper game prevent being spoted.
+
+2)radio mechinic
+?) knot tieing puzzle 
+
+3)interact mechanic
+
+?)storgage mechanic?
+?)survival mechanic
+
+music with upon movemnt chararter theme plays
+enimy in view enemy them plays
+
+need 3 song loops
+
+promiance free to play game
+
+
+>>>>>>> parent of 1590b126 (Delete CLassNotes directory)
